@@ -50,9 +50,10 @@ while True:
 
 
 # SERVER OUTPUT :
-![ex3s](https://github.com/ARUNKUMART9968/EX-2/assets/121215794/952c947e-3d4c-46ef-acc9-f555432153c9)
+![image](https://github.com/SudharsanamRK/EX-2/assets/115523484/f0b20ec8-dff0-45fd-bc2f-e7044033fbad)
+
 # CLIENT OUTPUT :
-![ex3c](https://github.com/ARUNKUMART9968/EX-2/assets/121215794/0e37799e-a40a-4c4f-b83e-32658daa7edd)
+![image](https://github.com/SudharsanamRK/EX-2/assets/115523484/ef8afeff-1463-477d-8777-b2f969ca319c)
 
 
 
